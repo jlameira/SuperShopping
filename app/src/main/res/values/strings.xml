@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Ego Shopping</string>
+    <string name="hello_word">Ego Shopping</string>
+
+    <string name="shopping">Ego Shopping</string>
+    <string name="lojas">Lojas</string>
+    <string name="site_ego">Site Ego</string>
+    <string name="promocao">Promoções</string>
+    <string name="configuracoes">Configurações</string>
+
+    <string name="mavaliado"> + Avaliados</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="msg_error_conexao_indisponivel">Conexão indisponível. Verifique seu Wi-Fi ou 3G.</string>
+    <string name="action_about">Sobre</string>
+
+    <!-- D -->
+    <string name="descricao">Descrição</string>
+
+    <string name="editar">Editar</string>
+    <string name="excluir">Excluir</string>
+    <string name="enviarLoja">Enviar Lojas</string>
+
+
+    <string name="mapa">Mapa</string>
+
+    <!-- N -->
+    <string name="nav_drawer_username">Ego Shopping</string>
+    <string name="nav_drawer_email">egoshopping@gmail.com</string>
+    <string name="nome">Nome</string>
+    <!-- S -->
+    <string name="share">Share</string>
+    <string name="sobre">Sobre</string>
+    <string name="site_do_app">Site do App</string>
+
+    <string name="video">Vídeo</string>
+
+</resources>

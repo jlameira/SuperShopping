@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+
+        <item
+            android:id="@+id/nav_item_shopping"
+            android:checked="true"
+            android:icon="@drawable/ic_cast_dark"
+            android:title="@string/shopping" />
+        <item
+            android:id="@+id/nav_item_lojas"
+            android:checked="true"
+            android:icon="@drawable/loja"
+            android:title="@string/lojas" />
+        <!-- Lista com os carros clássicos -->
+        <item
+            android:id="@+id/nav_item_promocoes"
+            android:checked="true"
+            android:icon="@drawable/promocao"
+            android:title="@string/promocao" />
+
+        <item
+            android:id="@+id/nav_item_melhor"
+            android:checked="true"
+            android:icon="@drawable/ic_drawer_mais"
+            android:title="@string/mavaliado" />
+
+        <!-- Lista com todos os carros -->
+
+        <!--&lt;!&ndash; Lista com os carros esportivos &ndash;&gt;-->
+        <!--<item-->
+            <!--android:id="@+id/nav_item_carros_esportivos"-->
+            <!--android:checked="true"-->
+            <!--android:icon="@drawable/ic_drawer_carro"-->
+            <!--android:title="@string/esportivos" />-->
+        <!--&lt;!&ndash; Lista com os carros de luxo &ndash;&gt;-->
+        <!--<item-->
+            <!--android:id="@+id/nav_item_carros_luxo"-->
+            <!--android:checked="true"-->
+            <!--android:icon="@drawable/ic_drawer_carro"-->
+            <!--android:title="@string/luxo" />-->
+        <!--&lt;!&ndash; WebView com informações sobre o livro &ndash;&gt;-->
+        <!--<item-->
+            <!--android:id="@+id/nav_item_site_livro"-->
+            <!--android:icon="@drawable/ic_drawer_mais"-->
+            <!--android:title="@string/site_do_livro" />-->
+        <!-- Tela de configurações -->
+        <item
+            android:id="@+id/nav_item_settings"
+            android:icon="@drawable/ic_drawer_settings"
+            android:title="@string/configuracoes" />
+    </group>
+</menu>

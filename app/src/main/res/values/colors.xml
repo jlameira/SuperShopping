@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0b7a96</color>
+    <color name="colorPrimaryDark">#19697d</color>
+    <color name="colorAccent">#e85b23</color>
+
+    <color name="transparent">#0000</color>
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+    <color name="blue">#00f</color>
+    <color name="red">#f00</color>
+    <color name="green">#0f0</color>
+    <color name="gray">#eee</color>
+    <color name="yellow">#fff000</color>
+    <color name="blue_light">#e85b23</color>
+
+    <!-- SwipeRefreshLayout -->
+    <color name="refresh_progress_1">#33B5E5</color>
+    <color name="refresh_progress_2">#99CC00</color>
+    <color name="refresh_progress_3">#CC0000</color>
+    <color name="control_highlight">#85c9da</color>
+
+
+
+</resources>
